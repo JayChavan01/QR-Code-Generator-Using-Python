@@ -62,5 +62,17 @@ After the "Create" button is pressed, the generated QR code is displayed on the 
 
 ---
 
+### **Video Demonstration:**
+Here’s a video that demonstrates how this QR Code generator project works:
+
+Watch the video
+
+https://github.com/user-attachments/assets/fff5289e-9274-42d6-9b85-77fd75c7c209
+
+
+This video showcases the steps involved in using the QR Code generator: inputting text, generating the QR code, saving it, and exiting the tool. It provides a clear demonstration of the functionality in action.
+
+---
+
 This project demonstrates
  my **Python skills** in building a functional and interactive QR code generation system. Let me know if you'd like additional features or improvements! 🚀
