@@ -45,19 +45,19 @@ This project is a **Python-based QR Code generator tool** that allows users to g
 
 ### **Output Example:**
 
-- **Input Page:**  
-   The user enters a URL or text to generate the QR code.
-  
+Input Page:
+Shows the QR code generator interface with a URL text box and three buttons: "Create," "Save," and "Exit."
+
 ![Screenshot_1](https://github.com/user-attachments/assets/5c072c2a-d0c5-4aec-b6b7-9b4034e4eb16)
 
-- **Generated QR Code:**  
-   Displays the QR code on the interface after the "Create" button is pressed.
-  
+User Text Entry:
+The user enters a URL or text into the input box to generate the QR code.
+
 ![Screenshot_2](https://github.com/user-attachments/assets/352e3275-8e86-4c6b-95a7-210370daa908)
 
-- **Save File:**  
-   The QR code image is saved to the device when the "Save" button is clicked.
-  
+Generated QR Code:
+After the "Create" button is pressed, the generated QR code is displayed on the interface. The user can then click the "Save" button to save the QR code image to their device.
+
 ![Screenshot_3](https://github.com/user-attachments/assets/83c24d00-e6e4-4c82-826b-656f83d543c3)
 
 ---
