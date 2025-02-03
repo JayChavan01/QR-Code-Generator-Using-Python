@@ -65,8 +65,6 @@ After the "Create" button is pressed, the generated QR code is displayed on the 
 ### **Video Demonstration:**
 Here’s a video that demonstrates how this QR Code generator project works:
 
-Watch the video
-
 https://github.com/user-attachments/assets/fff5289e-9274-42d6-9b85-77fd75c7c209
 
 
